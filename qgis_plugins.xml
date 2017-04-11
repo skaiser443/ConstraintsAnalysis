@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<plugins>
+  <pyqgis_plugin name="constraintsAnalysis" version="1.0">
+    <description>Solar constraints analysis for Hexagon Energy</description>
+    <homepage>http://github.com/skaiser443/ConstraintsAnalysis</homepage>
+    <qgis_minimum_version>2.2</qgis_minimum_version>
+    <file_name>constraintsAnalysis.zip</file_name>
+    <author_name>Geospatial Planning Advisors, LLC</author_name>
+    <download_url>http://github.com/skaiser443/ConstraintsAnalysis/constraintsAnalysis.zip</download_url>
+  </pyqgis_plugin>
+</plugins>
